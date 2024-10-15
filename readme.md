@@ -14,7 +14,7 @@ This project is a comprehensive starter template for building modern web applica
 1. Clone the repository:
 
    ```
-   git clone https://github.com/anderson.carli/vite-start.git
+   git clone https://github.com/andersoncarli/vite-start.git
    cd vite-start
    ```
 
@@ -51,6 +51,14 @@ This project is a comprehensive starter template for building modern web applica
    ```
    npm start
    ```
+
+7. Start the server in dev mode with Jest:
+   ```
+   TEST=1 TEST_RUNNER=jest npm run dev
+   ```
+
+
+
 
 ## Project Structure
 
