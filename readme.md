@@ -12,22 +12,26 @@ This project is a comprehensive starter template for building modern web applica
 ### Setup
 
 1. Clone the repository:
+
    ```
    git clone https://github.com/anderson.carli/vite-start.git
    cd vite-start
    ```
 
 2. Install dependencies:
+
    ```
    npm install
    ```
 
 3. Start the development server:
+
    ```
    npm run dev
    ```
 
 4. Run tests:
+
    - Using Vitest (default):
      ```
      npm run test:vitest
@@ -38,6 +42,7 @@ This project is a comprehensive starter template for building modern web applica
      ```
 
 5. Build for production:
+
    ```
    npm run build
    ```
